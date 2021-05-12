@@ -1,1 +1,1 @@
-- I'm currently exploring options of the Lexicon Projects using Quasar Framework.
+- I'm currently exploring options for the Lexicon Projects using Quasar Framework.
